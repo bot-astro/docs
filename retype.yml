@@ -1,5 +1,5 @@
 input: ./src
-output: .retype
+output: .build
 url: https://docs.astro-bot.space
 branding:
   logo: static/logo.png
