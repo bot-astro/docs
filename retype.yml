@@ -1,0 +1,20 @@
+input: ./src
+output: .retype
+url: https://docs.astro-bot.space
+branding:
+  logo: static/logo.png
+  title: Docs
+  label: v5.0.0
+favicon: static/favicon.ico
+links:
+- text: Website
+  link: https://astro-bot.space
+- text: Premium
+  link: https://astro-bot.space/premium
+- text: Support
+  link: https://astro-bot.space/support
+edit:
+  repo: "https://github.com/bot-astro/docs/"
+  base: "/src"
+footer:
+  copyright: "&copy; Copyright {{ year }}. All rights reserved."
