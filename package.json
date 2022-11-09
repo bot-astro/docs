@@ -1,0 +1,22 @@
+{
+  "name": "docs",
+  "version": "1.0.0",
+  "description": "Documentation for the Discord bot Astro.",
+  "main": "",
+  "scripts": {
+    "build": "retype build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bot-astro/docs.git"
+  },
+  "author": "https://giuliopime.dev",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bot-astro/docs/issues"
+  },
+  "homepage": "https://github.com/bot-astro/docs#readme",
+  "dependencies": {
+    "retypeapp": "^2.4.0"
+  }
+}
