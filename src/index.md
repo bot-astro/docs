@@ -1,6 +1,7 @@
 ---
 label: Get started
 icon: home
+description: Learn how to use Astro to get temporary voice channels and voice roles in your server!
 ---
 ![](https://astro-bot.space/discovery-banner.png)
 
