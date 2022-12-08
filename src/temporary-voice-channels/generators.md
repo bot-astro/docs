@@ -66,6 +66,10 @@ graph LR
     B -->|No| E[Create a new channel for the user]
 ```
 
+### Fallback generator
+You can set a fallback generator for a specific generator with `/generator fallback-generator`.  
+When the generator category fills up (*gets to 50 channels*) users that join the generator will be moved to the fallback generator!
+
 ### Ownership settings
 #### Owner permissions
 You can assign specific permissions to voice channel owners with [!badge /generator owner permissions].
