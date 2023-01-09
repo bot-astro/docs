@@ -18,7 +18,7 @@ If you own a professional server Astro premium is exactly what you need to take 
 ### Get premium
 Here are the steps to get premium for your server:
 1. Head over to the [premium page](https://astro-bot.space/premium) and subscribe to premium.
-2. Once you have subscribed you can use the [!badge /premium info] command in the server where you want to activate premium.
+2. Once you have subscribed you can use the [!badge /premium upgrade] command in the server where you want to activate premium.
 
 ### Manage or cancel your subscription
 To manage your subscription head over to [the premium page](https://astro-bot.space/premium), then login with your Discord account on the top right.  
