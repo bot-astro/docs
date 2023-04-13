@@ -30,6 +30,10 @@ User premium is what works for you then!
 - Dedicated support in the [Support Server](${Links.support})
 
 ## Get premium
+The **recommended** way to get premium is now the **App Directory**!  
+[Here is the link](https://discord.com/application-directory/715621848489918495/premium to get Astro Premium directly inside Discord.  
+
+Otherwise, you can still get premium from the Astro website:
 1. Head over to the [premium page](https://astro-bot.space/premium) and subscribe to premium (choose between Server, User, or both!).
 2. If you subscribe for Server premium, you can use the [!badge /premium upgrade] command in the server where you want to activate premium, otherwise if you choose `User premium` it will be active right after.
 
