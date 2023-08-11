@@ -7,7 +7,7 @@ A templates simply holds a bunch of settings that can get applied to temporary v
 ### Creating a template
 You can create a template with [!badge /template create], it will ask for a `name` which will be the name that users will see when they try to apply a template to their channel.
 !!!info
-Non-[premium](../premium.md) servers can create up to 5 templates, while [premium](../premium.md) servers have unlimited!
+Non-[premium](../premium.md) servers can create up to 3 templates, while [premium](../premium.md) servers have unlimited!
 !!!
 
 ### Template settings  

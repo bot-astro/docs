@@ -12,7 +12,7 @@ Astro can handle ✨ **multiple generators** and **each with different settings*
 ## Create a generator
 Use the [!badge /generator create] command to create one.  
 !!!primary
-Non-[premium](../premium) servers have up to three generators, while [premium](../premium.md) ones have unlimited.
+Non-[premium](../premium) servers have up to two generators, while [premium](../premium.md) ones have unlimited.
 !!!
 
 ## Configure a generator
