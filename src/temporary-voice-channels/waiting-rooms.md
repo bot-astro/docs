@@ -6,21 +6,22 @@ Waiting rooms are voice channels attached to temporary ones, that allow users to
 The owner of the temporary voice channel can drag people inside its channel from the waiting room.  
 
 ==- 🦀 Waiting room
-![Example default interface](../static/waiting-vc.png)
+![Waiting room example](../static/waiting-vc.png)
 ===
 
 ==- 🦀 Waiting room with user waiting
-![Example gaming interface](../static/waiting-user.png)
+![Example waiting room with user](../static/waiting-user.png)
 ===
 
 !!!info
 This is a [premium](../premium.md) feature as it requires many more requests to Discord to work.  
-!!!  
+!!!
+
 ### Configuration  
 Here are the commands available to configure waiting rooms:  
 - Category :icon-arrow-right: [!badge /generator-waiting category]
 - Position :icon-arrow-right: [!badge /generator-waiting position]
-- Name :icon-arrow-right: [!badge /generator-waiting name] (see [variables](variables.md)) (accepts [variables](./variables.md))
+- Name :icon-arrow-right: [!badge /generator-waiting name] (accepts [variables](./variables.md))
 - User limit :icon-arrow-right: [!badge /generator-waiting limit]
 - Bitrate :icon-arrow-right: [!badge /generator-waiting bitrate]
 - Permission inheriting :icon-arrow-right: [!badge /generator-waiting permissions]
