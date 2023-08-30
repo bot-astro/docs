@@ -17,7 +17,7 @@ The owner of the temporary voice channel can drag people inside its channel from
 This is a [premium](../premium.md) feature as it requires many more requests to Discord to work.  
 !!!
 
-### Configuration  
+### Configuration
 Here are the commands available to configure waiting rooms:  
 - Category :icon-arrow-right: [!badge /generator-waiting category]
 - Position :icon-arrow-right: [!badge /generator-waiting position]
