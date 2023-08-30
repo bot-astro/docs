@@ -1,0 +1,114 @@
+{
+  "version": "3.1.0",
+  "created": "2023-08-30T13:40:37Z",
+  "files": [
+    {
+      "path": ".nojekyll"
+    },
+    {
+      "path": "404.html"
+    },
+    {
+      "path": "CNAME"
+    },
+    {
+      "path": "examples/index.html"
+    },
+    {
+      "path": "index.html"
+    },
+    {
+      "path": "premium/index.html"
+    },
+    {
+      "path": "resources/css/retype.css"
+    },
+    {
+      "path": "resources/fonts/Inter-italic-latin-var.woff2"
+    },
+    {
+      "path": "resources/fonts/Inter-roman-latin-var.woff2"
+    },
+    {
+      "path": "resources/js/config.js"
+    },
+    {
+      "path": "resources/js/lunr.js"
+    },
+    {
+      "path": "resources/js/mermaid.js"
+    },
+    {
+      "path": "resources/js/retype.js"
+    },
+    {
+      "path": "resources/js/search.json"
+    },
+    {
+      "path": "resources/lunr.js.LICENSE.txt"
+    },
+    {
+      "path": "resources/mermaid.js.LICENSE.txt"
+    },
+    {
+      "path": "resources/prism.js.LICENSE.txt"
+    },
+    {
+      "path": "resources/retype.js.LICENSE.txt"
+    },
+    {
+      "path": "resources/retype.LICENSE.txt"
+    },
+    {
+      "path": "robots.txt"
+    },
+    {
+      "path": "server-settings/index.html"
+    },
+    {
+      "path": "sitemap.xml.gz"
+    },
+    {
+      "path": "static/button-guide.png"
+    },
+    {
+      "path": "static/embed-guide.png"
+    },
+    {
+      "path": "static/favicon.ico"
+    },
+    {
+      "path": "static/interface-gaming.png"
+    },
+    {
+      "path": "static/interface.png"
+    },
+    {
+      "path": "static/logo.png"
+    },
+    {
+      "path": "static/premium.png"
+    },
+    {
+      "path": "temporary-voice-channels/generators/index.html"
+    },
+    {
+      "path": "temporary-voice-channels/index.html"
+    },
+    {
+      "path": "temporary-voice-channels/interfaces/index.html"
+    },
+    {
+      "path": "temporary-voice-channels/templates/index.html"
+    },
+    {
+      "path": "temporary-voice-channels/user-commands/index.html"
+    },
+    {
+      "path": "temporary-voice-channels/variables/index.html"
+    },
+    {
+      "path": "voice-roles/index.html"
+    }
+  ]
+}

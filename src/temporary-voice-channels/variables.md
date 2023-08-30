@@ -1,6 +1,6 @@
 ---
 icon: code
-order: 97
+order: 96
 ---
 Variables can be used to customize channel names and messages from Astro.  
 You can get a list of variables with [!badge /info variables].  

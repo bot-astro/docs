@@ -1,6 +1,6 @@
 ---
 icon: tools
-order: 96
+order: 95
 ---
 Users can manage their temporary voice channel with the [!badge /vc] commands or via the [interfaces](interfaces.md).  
 !!!info Ban commands
